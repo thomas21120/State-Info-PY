@@ -10,5 +10,6 @@ Run:
 Ideas for improvement:
     - get interesting data from web, and add more information to retrieve
     - GUI 
+    - py2exe
 
 
